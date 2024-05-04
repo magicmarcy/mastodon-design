@@ -1,5 +1,5 @@
 # mastodon-design (DE)
-Custom CSS für Mastodon
+Custom CSS für Mastodon v4.2.8
 
 Hier findest du ein Custom-Design für die Weboberfläche deiner Mastodon-Instanz. Das Design kannst du z.B. mit Tampermonkey oder Greasymonkey einfach als Script hinzufügen. Lediglich die URL bei "match" musst du auf deine Instanz anpassen.
 
@@ -13,7 +13,7 @@ Gerne kannst du an diesem Projekt mitarbeiten und helfen, dieses Script zu verbe
 Dieses CSS ist ausschließlich für die Verwendung des Standard-Themes (light) vorgesehen und auch nicht bei der Verwendung der "verbesserten Weboberfläche".
 
 # mastodon-design (EN)
-Custom CSS for Mastodon
+Custom CSS for Mastodon v4.2.8
 
 Here you can find a custom theme for the web interface of your Mastodon instance. You can easily add the design as a script using Tampermonkey or Greasymonkey for example. You just need to change the URL for "match" to match your instance.
 
