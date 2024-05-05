@@ -51,7 +51,7 @@ body.theme-mastodon-light {
 @media screen and (min-width: 1175px) {
  .columns-area__panels__main {
     padding: 0 40px;
-    max-width: 680px;
+    max-width: 800px;
   }
 }
 
@@ -182,5 +182,13 @@ body.theme-mastodon-light .compose-form .compose-form__buttons-wrapper {
 
 .compose-panel {
   width: 360px !important;
+}
+
+a .account__avatar {
+  border-radius: 50%;
+}
+
+.account__header__image {
+  height: 300px;
 }
 ` );
